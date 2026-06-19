@@ -1,4 +1,4 @@
-package odin
+package main
 
 import "core:bufio"
 import "core:encoding/json"
